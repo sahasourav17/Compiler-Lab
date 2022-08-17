@@ -36,7 +36,7 @@ int main(){
 		which runs the Rule Section*/
 // yytext is the text in the buffer
 
-// Uncomment the lines below
+
 // to take input from file
 FILE *fp;
 fp = fopen("in.txt","r");
