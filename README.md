@@ -2,12 +2,11 @@
 
 ## Install Flex and Bison on Linux:
 
-### Step-1: Open your terminal 
-### Step-2: Run the following commands
+### Step-1: Run the following commands in your terminal
 * sudo apt update
 * sudo apt-get install bison flex
 
-### Step-3: Run the following commands to compile lex file:
+### Step-2: Commands to compile lex file:
 
 * lex filename.l (in my case it is test.l)
 * gcc lex.yy.c 
@@ -40,5 +39,5 @@
 
 * cd Lex_project
 
-* After that follow **Step-3**
+* After that follow **Step-2**
 
