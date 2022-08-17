@@ -34,10 +34,6 @@
 ## Commands:
 
 * git clone https://github.com/sahasourav17/Compiler-Lab.git
-
-* cd Compiler-lab
-
-* cd Lex_project
-
+* cd Compiler-Lab/Lex_project/
 * After that follow **Step-2**
 
