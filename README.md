@@ -33,7 +33,10 @@
 
 ## Commands:
 
-* git clone https://github.com/sahasourav17/Compiler-Lab.git
-* cd Compiler-Lab/Lex_project/
-* After that follow **Step-2**
+```bash
+
+git clone https://github.com/sahasourav17/Compiler-Lab.git
+cd Compiler-Lab/Lex_project/
+```
+ After that follow **Step-2**
 
